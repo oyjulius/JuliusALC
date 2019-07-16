@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Julius ALC4.1</string>
+    <string name="welcome">WELCOME TO ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+
+</resources>
